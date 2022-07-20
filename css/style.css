@@ -1,0 +1,36 @@
+.navbar-home {
+    background-color: #bbbaba;
+    border-color: none;
+    border-radius: 0px;
+    border: none;
+    margin-bottom: 0px;
+}
+
+.navbar-home .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-home .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+
+.carousel-content {
+    height: 590px;
+}
+
+.aboutsamsung{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.phone-type{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.footer{
+    background-color: #bbbaba;
+    padding: 1.5rem 0;
+    color: white;
+}
